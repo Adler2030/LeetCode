@@ -23,3 +23,5 @@
 1757.[可回收且低脂的产品](https://leetcode.cn/problems/recyclable-and-low-fat-products/)–简单
 
 1873.[计算特殊奖金](https://leetcode.cn/problems/calculate-special-bonus/)–简单
+
+1916.[删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)–简单

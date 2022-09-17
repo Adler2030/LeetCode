@@ -24,6 +24,8 @@
 
 1608.[特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)–简单
 
+1624.[两个相同字符之间的最长字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)–简单
+
 1757.[可回收且低脂的产品](https://leetcode.cn/problems/recyclable-and-low-fat-products/)–简单
 
 1873.[计算特殊奖金](https://leetcode.cn/problems/calculate-special-bonus/)–简单

@@ -12,6 +12,8 @@
 
 627.[变更性别](https://leetcode.cn/problems/swap-salary/)–简单
 
+650.[只有两个键的键盘](https://leetcode.cn/problems/2-keys-keyboard/)–中等
+
 669.[修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)–中等
 
 670.[最大交换](https://leetcode.cn/problems/maximum-swap/)–中等

@@ -1,24 +1,24 @@
 # LeetCode
 
-100.[相同的树](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/100相同的树.md)
+100.[相同的树](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/100相同的树.md)–简单
 
-101.[对称二叉树](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/101对称二叉树.md)
+101.[对称二叉树](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/101对称二叉树.md)–简单
 
-102.[二叉树的层序遍历](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/102二叉树的层序遍历.md)
+102.[二叉树的层序遍历](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/102二叉树的层序遍历.md)–中等
 
-103.[二叉树的锯齿形层序遍历](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/103二叉树的锯齿形层序遍历.md)
+103.[二叉树的锯齿形层序遍历](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/103二叉树的锯齿形层序遍历.md)–中等
 
-104.[二叉树的最大深度](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/104二叉树的最大深度.md)
+104.[二叉树的最大深度](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/104二叉树的最大深度.md)–简单
 
-107.[二叉树的层序遍历Ⅱ](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/107二叉树的层序遍历Ⅱ.md)
+107.[二叉树的层序遍历Ⅱ](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/107二叉树的层序遍历Ⅱ.md)–中等
 
-111.[二叉树的最小深度](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/111二叉树的最小深度.md)
+111.[二叉树的最小深度](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/111二叉树的最小深度.md)–简单
 
-112.[路经总和](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/112路经总和.md)
+112.[路经总和–简单](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/112路经总和.md)
 
-116.[填充每个节点的下一个右侧节点](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/116填充每个节点的下一个右侧节点.md)
+116.[填充每个节点的下一个右侧节点](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/116填充每个节点的下一个右侧节点.md)–中等
 
-117.[填充每个节点的下一个右侧节点Ⅱ](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/117填充每个节点的下一个右侧节点Ⅱ.md)
+117.[填充每个节点的下一个右侧节点Ⅱ](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/117填充每个节点的下一个右侧节点Ⅱ.md)–中等
 
 175.[组合两个表](https://github.com/Adler2030/LeetCode/blob/main/MySQL/175组合两个表.md)–简单
 

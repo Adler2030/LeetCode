@@ -14,7 +14,7 @@
 
 111.[二叉树的最小深度](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/111二叉树的最小深度.md)–简单
 
-112.[路经总和–简单](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/112路经总和.md)
+112.[路经总和](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/112路经总和.md)–简单
 
 116.[填充每个节点的下一个右侧节点](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/116填充每个节点的下一个右侧节点.md)–中等
 

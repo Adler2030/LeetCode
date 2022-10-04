@@ -2,6 +2,8 @@
 
 11.[盛水最多的容器](https://github.com/Adler2030/LeetCode/blob/main/Greedy/11盛水最多的容器.md)–中等
 
+45.[跳跃游戏Ⅱ](https://github.com/Adler2030/LeetCode/blob/main/Greedy/45跳跃游戏Ⅱ.md)–中等
+
 55.[跳跃游戏](https://github.com/Adler2030/LeetCode/blob/main/Greedy/55跳跃游戏.md)–中等
 
 100.[相同的树](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/100相同的树.md)–简单

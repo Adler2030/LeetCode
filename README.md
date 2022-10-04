@@ -1,5 +1,9 @@
 # LeetCode
 
+11.[盛水最多的容器](https://github.com/Adler2030/LeetCode/blob/main/Greedy/11盛水最多的容器.md)–中等
+
+55.[跳跃游戏](https://github.com/Adler2030/LeetCode/blob/main/Greedy/55跳跃游戏.md)–中等
+
 100.[相同的树](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/100相同的树.md)–简单
 
 101.[对称二叉树](https://github.com/Adler2030/LeetCode/blob/main/Breadth-First-Search/101对称二叉树.md)–简单
@@ -25,6 +29,10 @@
 183.[从不订购的客户](https://github.com/Adler2030/LeetCode/blob/main/MySQL/183从不订购的客户.md)–简单
 
 196.[删除重复的电子邮箱](https://github.com/Adler2030/LeetCode/blob/main/MySQL/196删除重复的电子邮箱.md)–简单
+
+455.[分发饼干](https://github.com/Adler2030/LeetCode/blob/main/Greedy/455分发饼干.md)–简单
+
+561.[数组拆分](https://github.com/Adler2030/LeetCode/blob/main/Greedy/561数组拆分.md)–简单
 
 584.[寻找用户推荐人](https://github.com/Adler2030/LeetCode/blob/main/MySQL/584寻找用户推荐人.md)–简单
 

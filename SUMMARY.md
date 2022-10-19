@@ -63,4 +63,8 @@
     * [554反转字符串中的单词Ⅲ](TwoPointers/554反转字符串中的单词Ⅲ.md)
     * [876链表的中间节点](TwoPointers/876链表的中间节点.md)
     * [977有序数组的平方](TwoPointers/977有序数组的平方.md)
+* 位运算
+    * [136只出现一次的数字](BitManipulation/136只出现一次的数字.md)
+    * [191位1的个数](BitManipulation/191位1的个数.md)
+    * [231二的幂](BitManipulation/231二的幂.md)
 

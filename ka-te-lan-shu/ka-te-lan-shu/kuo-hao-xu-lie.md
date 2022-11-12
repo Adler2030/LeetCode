@@ -4,7 +4,7 @@
 
 &#x20;       n 对括号，则有多少种 “括号匹配” 的括号序列
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **思路**
 

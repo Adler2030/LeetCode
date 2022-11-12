@@ -8,7 +8,7 @@
 
 &#x20;       我们将进栈表示为 +1，出栈表示为 -1，则 1 3 2 的出栈序列可以表示为：+1 -1 +1 +1 -1 -1。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       根据栈本身的特点，每次出栈的时候，必定之前有元素入栈，即对于每个 -1 前面都有一个 +1 相对应。因此，出栈序列的 **所有前缀和** 必然大于等于 0，并且 +1 的数量 **等于** -1 的数量。
 

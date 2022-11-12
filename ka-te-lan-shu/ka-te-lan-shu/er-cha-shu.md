@@ -14,4 +14,4 @@
 
 由于每个非叶子节点都有两个左右子节点，所有它必然会先向左扩展，再向右扩展。总体下来，左右扩展将会形成匹配，即变成进出栈的题型。`n + 1`个叶子结点会有 2n 次扩展，构成 $$C^{n+1}_{2n}$$种形状不同的满二叉树。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
